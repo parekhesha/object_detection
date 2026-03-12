@@ -1,4 +1,5 @@
-# Real-Time Object Detection using YOLOv8
+# Real-Time Object Detection using OPENcv
+
 
 Detects and labels objects in real-time using webcam or video input.
 
